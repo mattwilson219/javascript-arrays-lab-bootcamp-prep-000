@@ -15,5 +15,8 @@ function destructivelyRemoveLastKitten() {
   return kittens;
 }
 
-function destructivelyRemoveFirstKitten
+function destructivelyRemoveFirstKitten() {
+  kittens.push()
+  return kittens
+}
 // Add your functions and code here
