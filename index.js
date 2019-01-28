@@ -1,5 +1,7 @@
 var kittens = ["Milo" , "Otis" , "Garfield"]; 
 
-kittens
+arr destructivelyAppendKitten(name){
+  (...kittens)
+}
 
 // Add your functions and code here
