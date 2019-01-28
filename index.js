@@ -11,6 +11,7 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivelyRemoveLastKitten() {
-  kittens.slice(2)
+  kittens.slice(2);
+  return kittens;
 }
 // Add your functions and code here
