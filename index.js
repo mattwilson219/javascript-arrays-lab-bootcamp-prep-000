@@ -6,7 +6,7 @@ return kittens;
 }
 
 function destructivelyPrependKitten(name) {
-  kittens.pop(name);
+  kittens.unshift(name);
   return kittens;
 }
 // Add your functions and code here
