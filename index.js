@@ -1,5 +1,5 @@
 var kittens = ["Milo" , "Otis" , "Garfield"]; 
 
-var kittens 
+kittens
 
 // Add your functions and code here
