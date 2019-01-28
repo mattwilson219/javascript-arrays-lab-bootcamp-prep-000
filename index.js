@@ -1,7 +1,5 @@
 var kittens = ["Milo" , "Otis" , "Garfield"]; 
 
-arr destructivelyAppendKitten(name){
-  (...kittens)
-}
+function 
 
 // Add your functions and code here
