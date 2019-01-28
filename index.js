@@ -21,6 +21,6 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKittenName(name) {
-  
+  return []
 }
 // Add your functions and code here
